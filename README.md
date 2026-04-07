@@ -1,2 +1,2 @@
-# Aula_React_e_Node
+# Aula_JavaScript
 Um repositório para os meus projetos de JavaScript
