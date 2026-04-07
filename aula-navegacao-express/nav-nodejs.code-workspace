@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "nav-nodejs",
+			"path": "../Nodejs/nav-nodejs"
+		},
+		{
+			"name": "node_modules",
+			"path": "node_modules"
+		}
+	],
+	"settings": {}
+}
