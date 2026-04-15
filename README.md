@@ -1,7 +1,4 @@
 # Aula_JavaScript
-Um repositório para os meus projetos de JavaScript
-
-# Aula_JavaScript
 
 Repositório de projetos JavaScript focado em desenvolvimento fullstack com diferentes tecnologias e paradigmas. A coleção abrange desde aplicações simples com DOM manipulation até implementações mais complexas com React Native, Firebase e Express.
 
