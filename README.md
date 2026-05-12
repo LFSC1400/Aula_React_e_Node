@@ -22,17 +22,9 @@ Aplicação JavaScript Vanilla implementando padrão de state management básico
 
 Pasta com exemplos educacionais abordando conceitos fundamentais de JavaScript como variáveis com var, let e const, tipos de dados primitivos e operadores. Inclui exemplos de funções declaradas, arrow functions, métodos de array como map e filter, e operações básicas com objetos. Fornece base teórica para compreensão de sintaxe e semântica da linguagem.
 
-## Navbar
-
-Projeto HTML com Bootstrap 4 que demonstra construção de barra de navegação responsiva utilizando grid system Bootstrap. Implementa navbar-toggler para collapse em dispositivos móveis com atributos aria para acessibilidade. Utiliza componentes Bootstrap como containers, rows, cols com breakpoints (col-md-6, col-sm-12) para layout fluido. Inclui alerts com diferentes variantes (success, warning) e integração de dependências jQuery, Popper.js e Bootstrap via CDN. Estrutura semântica HTML5 com viewport meta tag para responsividade.
-
 ## aula-navegacao-express
 
 Projeto backend Node.js implementado com Express.js framework de roteamento. Configura middleware de roteamento para navegação entre páginas, demonstrando padrão MVC com separação de rotas e views. Utiliza template engines para renderização dinâmica de conteúdo no servidor. Implementa requisições HTTP com métodos GET e POST para manipulação de dados em sessão do usuário.
-
-## crud_firebase
-
-Aplicação fullstack que implementa operações CRUD contra Firebase Realtime Database com integração de autenticação Firebase. Realiza operações de Create com push(), Read com on() listener, Update com update() e Delete com remove(). Utiliza paradigma de event-driven para sincronização em tempo real de dados. Implementa mecanismo de autenticação por email/senha com gerenciamento de sessão do usuário. Utiliza promessas e async/await para operações assíncronas contra API Firebase.
 
 ## sistema-categorias
 
